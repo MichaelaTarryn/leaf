@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.leaf {
+    border-radius: 5px 300px 3px 300px;
+    background: #6DC75F;
+    width: 150px;
+    height: 150px;
+}
